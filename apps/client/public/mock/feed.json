@@ -1,0 +1,282 @@
+[
+  {
+    "id": "1",
+    "url": "https://example.com/article",
+    "title": "How to Think Like a Bookmarking Tool",
+    "note": "Great piece on metadata-driven discovery.",
+    "byline": "Jane Writer",
+    "tags": ["metadata", "design", "reading"],
+    "postedAt": "2025-05-25T12:34:00Z",
+    "user": {
+      "handle": "@reader.bsky.social",
+      "displayName": "Reader One",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "11",
+    "url": "https://example.com/article",
+    "title": "How to Think Like a Bookmarking Tool",
+    "note": "Found this really helpful for organizing my bookmarks.",
+    "byline": "Jane Writer",
+    "tags": ["metadata", "design", "reading"],
+    "postedAt": "2025-05-26T08:00:00Z",
+    "user": {
+      "handle": "@booklover.bsky.social",
+      "displayName": "Book Lover",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "2",
+    "url": "https://news.site/ai-ethics",
+    "title": "AI Ethics in Everyday Life",
+    "note": "Short but insightful. Raises good questions about AI responsibility.",
+    "byline": "Dr. Linh Tran",
+    "tags": ["AI", "ethics", "technology"],
+    "postedAt": "2025-05-26T09:15:00Z",
+    "user": {
+      "handle": "@ethicist.bsky.social",
+      "displayName": "Linh Tran",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "12",
+    "url": "https://news.site/ai-ethics",
+    "title": "AI Ethics in Everyday Life",
+    "note": "Important read, especially for tech developers.",
+    "byline": "Dr. Linh Tran",
+    "tags": ["AI", "ethics", "technology"],
+    "postedAt": "2025-05-27T10:20:00Z",
+    "user": {
+      "handle": "@techguru.bsky.social",
+      "displayName": "Tech Guru",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "3",
+    "url": "https://medium.com/@alexdev/typescript-tips",
+    "title": "10 TypeScript Tips for React Developers",
+    "note": "Saved for later. Good for onboarding juniors.",
+    "byline": "Alex Dev",
+    "tags": ["typescript", "react", "frontend"],
+    "postedAt": "2025-05-25T21:00:00Z",
+    "user": {
+      "handle": "@alexdev.bsky.social",
+      "displayName": "Alex Developer",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "13",
+    "url": "https://medium.com/@alexdev/typescript-tips",
+    "title": "10 TypeScript Tips for React Developers",
+    "note": "Great tips for improving code quality.",
+    "byline": "Alex Dev",
+    "tags": ["typescript", "react", "frontend"],
+    "postedAt": "2025-05-26T13:45:00Z",
+    "user": {
+      "handle": "@frontendfan.bsky.social",
+      "displayName": "Frontend Fan",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "4",
+    "url": "https://blog.foodie.com/ramen-guide",
+    "title": "The Ultimate Ramen Guide",
+    "note": "Bookmarking for my Japan trip planning.",
+    "byline": "Satoshi Nakamoto",
+    "tags": ["food", "travel", "ramen"],
+    "postedAt": "2025-05-24T18:45:00Z",
+    "user": {
+      "handle": "@foodie.bsky.social",
+      "displayName": "Food Explorer",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "14",
+    "url": "https://blog.foodie.com/ramen-guide",
+    "title": "The Ultimate Ramen Guide",
+    "note": "Can't wait to try these recipes!",
+    "byline": "Satoshi Nakamoto",
+    "tags": ["food", "travel", "ramen"],
+    "postedAt": "2025-05-25T09:30:00Z",
+    "user": {
+      "handle": "@ramenlover.bsky.social",
+      "displayName": "Ramen Lover",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "5",
+    "url": "https://openreview.net/forum?id=deep-learning-paper",
+    "title": "A New Approach to Deep Learning",
+    "note": "Dense but innovative. Revisit for research.",
+    "byline": "Prof. Ada Lovelace",
+    "tags": ["deep learning", "research", "AI"],
+    "postedAt": "2025-05-20T14:22:00Z",
+    "user": {
+      "handle": "@adalovelace.bsky.social",
+      "displayName": "Ada L.",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "15",
+    "url": "https://openreview.net/forum?id=deep-learning-paper",
+    "title": "A New Approach to Deep Learning",
+    "note": "Must read for AI researchers.",
+    "byline": "Prof. Ada Lovelace",
+    "tags": ["deep learning", "research", "AI"],
+    "postedAt": "2025-05-21T16:00:00Z",
+    "user": {
+      "handle": "@airesearcher.bsky.social",
+      "displayName": "AI Researcher",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "6",
+    "url": "https://dev.to/cli-productivity",
+    "title": "Boost Your CLI Productivity",
+    "note": "CLI tricks I hadn't seen before.",
+    "byline": "Sam Bash",
+    "tags": ["cli", "productivity", "tools"],
+    "postedAt": "2025-05-19T07:55:00Z",
+    "user": {
+      "handle": "@sambash.bsky.social",
+      "displayName": "Sam Bash",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "16",
+    "url": "https://dev.to/cli-productivity",
+    "title": "Boost Your CLI Productivity",
+    "note": "Helpful for streamlining my workflow.",
+    "byline": "Sam Bash",
+    "tags": ["cli", "productivity", "tools"],
+    "postedAt": "2025-05-20T10:10:00Z",
+    "user": {
+      "handle": "@terminalmaster.bsky.social",
+      "displayName": "Terminal Master",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "7",
+    "url": "https://garden.notes/evergreen-notes",
+    "title": "Evergreen Notes: A Knowledge Management Strategy",
+    "note": "Inspired my own digital garden setup.",
+    "byline": "Mira Lee",
+    "tags": ["notes", "pkm", "workflow"],
+    "postedAt": "2025-05-27T15:10:00Z",
+    "user": {
+      "handle": "@miralee.bsky.social",
+      "displayName": "Mira Lee",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "17",
+    "url": "https://garden.notes/evergreen-notes",
+    "title": "Evergreen Notes: A Knowledge Management Strategy",
+    "note": "Perfect strategy for long-term knowledge retention.",
+    "byline": "Mira Lee",
+    "tags": ["notes", "pkm", "workflow"],
+    "postedAt": "2025-05-28T11:00:00Z",
+    "user": {
+      "handle": "@notemaster.bsky.social",
+      "displayName": "Note Master",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "8",
+    "url": "https://sportsworld.com/olympics-preview",
+    "title": "2025 Olympics Preview: Athletes to Watch",
+    "note": "Sharing with my sports group.",
+    "byline": "Carlos Gomez",
+    "tags": ["sports", "olympics", "events"],
+    "postedAt": "2025-05-23T20:00:00Z",
+    "user": {
+      "handle": "@sportsfan.bsky.social",
+      "displayName": "Carlos G.",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "18",
+    "url": "https://sportsworld.com/olympics-preview",
+    "title": "2025 Olympics Preview: Athletes to Watch",
+    "note": "Good overview for the upcoming games.",
+    "byline": "Carlos Gomez",
+    "tags": ["sports", "olympics", "events"],
+    "postedAt": "2025-05-24T09:00:00Z",
+    "user": {
+      "handle": "@olympicsfan.bsky.social",
+      "displayName": "Olympics Fan",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "9",
+    "url": "https://finblog.com/market-trends-q2",
+    "title": "Market Trends Q2 2025",
+    "note": "Useful for quarterly review.",
+    "byline": "Priya Shah",
+    "tags": ["finance", "markets", "trends"],
+    "postedAt": "2025-05-22T11:40:00Z",
+    "user": {
+      "handle": "@priyafin.bsky.social",
+      "displayName": "Priya Shah",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "19",
+    "url": "https://finblog.com/market-trends-q2",
+    "title": "Market Trends Q2 2025",
+    "note": "Helpful insights for investment decisions.",
+    "byline": "Priya Shah",
+    "tags": ["finance", "markets", "trends"],
+    "postedAt": "2025-05-23T14:30:00Z",
+    "user": {
+      "handle": "@marketwatcher.bsky.social",
+      "displayName": "Market Watcher",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "10",
+    "url": "https://localnews.city/park-renovation",
+    "title": "City Park Renovation Plans Announced",
+    "note": "Glad to see green spaces getting attention.",
+    "byline": "Jordan Parks",
+    "tags": ["local", "parks", "community"],
+    "postedAt": "2025-05-21T08:30:00Z",
+    "user": {
+      "handle": "@jparks.bsky.social",
+      "displayName": "Jordan Parks",
+      "avatarUrl": null
+    }
+  },
+  {
+    "id": "20",
+    "url": "https://localnews.city/park-renovation",
+    "title": "City Park Renovation Plans Announced",
+    "note": "Looking forward to the new park features.",
+    "byline": "Jordan Parks",
+    "tags": ["local", "parks", "community"],
+    "postedAt": "2025-05-22T10:00:00Z",
+    "user": {
+      "handle": "@communitylover.bsky.social",
+      "displayName": "Community Lover",
+      "avatarUrl": null
+    }
+  }
+]

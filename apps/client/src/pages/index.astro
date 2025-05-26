@@ -1,0 +1,21 @@
+---
+import Counter from '../../components/Counter';
+import Feed from '../islands/Feed.tsx';
+import './src/styles/global.css'
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Bookmarking for Unions</title>
+	</head>
+	<body>
+		<h1 class="text-4xl font-bold text-blue-600">Unions are the way forward</h1>
+    <!--client:load tells Astro to hydrate that component on the client using Solid. -->
+    <Counter client:load />
+    <Feed client:load />
+	</body>
+</html>
